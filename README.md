@@ -21,3 +21,8 @@ I'm a passionate developer currently focused on **Fullstack Web Development** an
   <img src="https://github-readme-stats.vercel.app/api?username=josephineandrea&show_icons=true&theme=radical" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephineandrea&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
+### 🐍 My GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/josephineandrea/josephineandrea/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
