@@ -2,7 +2,7 @@
 ### 🎓 Informatics Engineering Student at Universitas Kristen Maranatha
 I'm a passionate developer currently focused on **Fullstack Web Development** and **Machine Learning**. I love building clean UI/UX and solving logic problems.
 
-- 🔭 Currently working on **Ticket Booking System** & **FloodWard**
+- 🔭 Currently working on **Ticket Booking System**
 - 🌱 Learning **React, Laravel, and Data Science**
 - 🏛️ Teaching Assistant for **Linear Algebra** & **Basic Programming**
 - 🗣️ Language Journey: 
